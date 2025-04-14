@@ -1,6 +1,6 @@
 {
-    "name": "drwealthservices",
-    "short_name": "drwealthservices",
+    "name": "leadkiosk",
+    "short_name": "leadkiosk",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
